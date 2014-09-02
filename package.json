@@ -1,6 +1,6 @@
 {
   "name": "scroll-passed",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Detect when an element is scrolled passed",
   "main": "index.js",
   "repository": {
